@@ -13,19 +13,18 @@ const HeroCarousal = () => {
     slidesToShow: 1,
     infinite: true,
     slidesToScroll: 1,
-    nextArrow: <NextArrow />,
-    prevArrow: <PrevArrow />,
+    nextArrow: <NextArrow/>,
+    prevArrow: <PrevArrow/>,
   };
 
   const settings = {
     arrows: true,
-    dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    nextArrow: <NextArrow />,
-    prevArrow: <PrevArrow />,
+    nextArrow: <NextArrow/>,
+    prevArrow: <PrevArrow/>,
   };
 
   const images = [
